@@ -8,5 +8,5 @@ terraform {
 }
 provider "spotify" {
   # Configuration options
-  api_key "?"
+  api_key = ""
 }
